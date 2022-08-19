@@ -1,0 +1,2 @@
+# Sudoku-Solver-in-Real-Time-Using-Computer-Vision
+Real-time-sudoku-solver The application is a sudoku solver in real time which recognises the digits in the unsolved sudoku image from the webcam using computer vision and solves the sudoku. Following is the small demo of the working project:  Approach Training the digit recognition model with the datset provided  Recognition of digits from the image from webcam  Using backtracking algorithm to solve the sudoku  Displaying the result with solved sudoku
